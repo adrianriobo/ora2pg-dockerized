@@ -21,4 +21,4 @@ Configure Oracle Database parameters... edit docker-compose and change:
          - ORA2PG_USER (BD user)
          - ORA2PG_PASSWD (BD password)
          
-Then use docker-compose... docker-compose up -d. This will create a folder in the current path (pg) with the database export in postgres sintax.
+Then use docker-compose... docker-compose up -d. This will create a folder in the current path (pg) with the database export in postgres syntax.
