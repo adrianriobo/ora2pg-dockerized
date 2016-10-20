@@ -1,10 +1,10 @@
 # ora2pg-dockerized
+
 Docker container to migrate oracle dabatabase into postgres
 
 ## Intro
 
-
-This container is based in ora2pg solution to migrate from oracle into postgres. It uses oracle-xe-11.2.0-1.0.x86_64.rpm.zip as Oracle client and install ora2pg and BDB-Oracle.
+This container is based in [ora2pg](http://ora2pg.darold.net/) solution to migrate from oracle into postgres. It uses oracle-xe-11.2.0-1.0.x86_64.rpm.zip as Oracle client and install ora2pg and BDB-Oracle.
 
 ## Construccion
 
