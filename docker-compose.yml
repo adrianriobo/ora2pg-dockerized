@@ -4,7 +4,7 @@ services:
    ora2pg-client:
       build:
          context: ./ora2pg-client
-      image: nexus.bahia.net:8083/bahia/database/tools/ora2pg-client
+      image: ariolor/database/tools/ora2pg-client
       environment:
          - DB_HOST= Add here db host
          - DB_SID= Add here db sid
